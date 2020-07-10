@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on MERN Stack Projects
 <!-- - 🤔 I’m looking for help with ...>
 <!-- - 💬 Ask me about -->
-- 📫 How to reach me: ...
+<!-- - 📫 How to reach me: ...>
 - 😄 Pronouns: Him/He
 <!-- ⚡ Fun fact: -->
 
