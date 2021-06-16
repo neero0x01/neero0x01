@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **ReactJS, NodeJS, Docker, Nexus Artifactory and Linux**
 
-- 📫 How to reach me **m.ahmad00861@gmail.com**
+- 📫 How to reach me **m.ahmad05@outlook.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **If you want to converse in meow lingo, hit me up**
 
 
 <h3 align="left">Languages and Tools:</h3>
