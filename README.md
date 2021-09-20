@@ -5,11 +5,9 @@
 
 - 🔭 I’m currently working on **an E-Commerce store**
 
-- 🌱 I’m currently learning **Everything 🤣**
+- 🌱 I’m currently learning **Codeigniter and React Native**
 
 - 👯 I’m looking to collaborate on **Creating Point of Sales with MERN**
-
-- 🤝 I’m looking for help with **JAMstack**
 
 - 💬 Ask me about **ReactJS, NodeJS, Docker, Nexus Artifactory and Linux**
 
