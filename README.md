@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neero0x01&label=Profile%20views&color=0e75b6&style=flat" alt="neero0x01" /> </p>
 
-- 🔭 I’m currently working on **an E-Commerce store**
+- 🔭 I’m currently working on **Recipe platform**
 
-- 🌱 I’m currently learning **Codeigniter and React Native**
+- 🌱 I’m currently learning **GraphCMS**
 
 - 👯 I’m looking to collaborate on **Creating Point of Sales with MERN**
 
