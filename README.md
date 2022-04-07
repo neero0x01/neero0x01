@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Recipe platform**
 
-- 🌱 I’m currently learning **GraphCMS**
+- 🌱 I’m currently learning **Web3 and Solidity**
 
-- 👯 I’m looking to collaborate on **Creating Point of Sales with MERN**
+- 👯 I’m looking to collaborate on **Creating a NFT Marketplace**
 
-- 💬 Ask me about **ReactJS, NodeJS, Docker, Nexus Artifactory and Linux**
+- 💬 Ask me about **ReactJS, NodeJS, Docker, Kubernetes, Nexus Artifactory and Linux**
 
 - 📫 How to reach me **m.ahmad05@outlook.com**
 
